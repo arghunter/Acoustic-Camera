@@ -17,3 +17,10 @@ I spent a while coming up with plans for the pcb and wiring of the acoustic came
 # May 31st
 
 **REMEMBER TO CHECK IF YOU NEED tO FLIP THE FPC CONNECTORS**
+
+Ok today I designed the base microphone board schematic. They are pretty simple but this was my first time using kicad. Naturally this meant it took my a very long time to learn. Then I also struggled to find the correct parts and footprints and symbols. I got hte wrong micphone type initally and was so confused by the pin out. Eventually though I think I got it all sorted. I'll prolly make the layout tomorrow or later tonight. Also check fpc connectors.
+
+![image](https://github.com/user-attachments/assets/09d48b6a-132b-4ea5-b8de-ca1a973ad1d0)
+
+**Time spent: 2.5h**
+
