@@ -13,3 +13,7 @@ I spent a while coming up with plans for the pcb and wiring of the acoustic came
 
 
 **Time Spent: 1h**
+
+# May 31st
+
+**REMEMBER TO CHECK IF YOU NEED tO FLIP THE FPC CONNECTORS**
