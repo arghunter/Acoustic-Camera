@@ -24,3 +24,7 @@ Ok today I designed the base microphone board schematic. They are pretty simple 
 
 **Time spent: 2.5h**
 
+# June 17th
+Tomorrow, I suppose that was a joke. Anyway I spent 3.5 hours today assigning fottprints , making footprints and making the initial layout. I cannot believe it is this hard to get footpritns from jlcpcb to kicad, but it worked out in the end. I did the routing but still need to do the copper pour and edge cuts. Not many photos, its kinda just some text and schematic stuff.
+
+**Time spent: 3.5h**
