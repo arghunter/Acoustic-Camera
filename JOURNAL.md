@@ -28,3 +28,9 @@ Ok today I designed the base microphone board schematic. They are pretty simple 
 Tomorrow, I suppose that was a joke. Anyway I spent 3.5 hours today assigning fottprints , making footprints and making the initial layout. I cannot believe it is this hard to get footpritns from jlcpcb to kicad, but it worked out in the end. I did the routing but still need to do the copper pour and edge cuts. Not many photos, its kinda just some text and schematic stuff.
 
 **Time spent: 3.5h**
+
+# June 21st
+Today I finalized the design of the microphone board by adding test points and finalizing dimensions. To be honest, most of the work was procedural so not much to add here. However, referencing May 31st, it turns out that I DO need to flip the FPC connectors.
+![image](https://github.com/user-attachments/assets/692bc256-3d1e-4eac-8715-50b82370b3fb)
+
+
