@@ -2018,7 +2018,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f50a206-5d1c-495b-b0f3-4fb760838f35")
-		(property "Reference" "TP2"
+		(property "Reference" "V1"
 			(at 170.18 128.7779 0)
 			(effects
 				(font
@@ -2069,7 +2069,7 @@
 		(instances
 			(project "MicBoard"
 				(path "/2461514a-e2cb-40a8-b313-68e2705f4701"
-					(reference "TP2")
+					(reference "V1")
 					(unit 1)
 				)
 			)
@@ -2085,7 +2085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30e279d1-2783-4ba6-8582-9ba7c42375e6")
-		(property "Reference" "TP4"
+		(property "Reference" "D1"
 			(at 158.75 141.4779 0)
 			(effects
 				(font
@@ -2136,7 +2136,7 @@
 		(instances
 			(project "MicBoard"
 				(path "/2461514a-e2cb-40a8-b313-68e2705f4701"
-					(reference "TP4")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -2610,7 +2610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72c590fd-8392-413e-8f75-4878bc99ee6c")
-		(property "Reference" "TP3"
+		(property "Reference" "C3"
 			(at 182.88 128.7779 0)
 			(effects
 				(font
@@ -2661,7 +2661,7 @@
 		(instances
 			(project "MicBoard"
 				(path "/2461514a-e2cb-40a8-b313-68e2705f4701"
-					(reference "TP3")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -2743,7 +2743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6e7520b-ea35-4140-96cb-68152aff404e")
-		(property "Reference" "TP5"
+		(property "Reference" "S1"
 			(at 170.18 141.4779 0)
 			(effects
 				(font
@@ -2794,7 +2794,7 @@
 		(instances
 			(project "MicBoard"
 				(path "/2461514a-e2cb-40a8-b313-68e2705f4701"
-					(reference "TP5")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -2810,7 +2810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd17ab91-bc5a-4d7c-80b8-a8c70e923367")
-		(property "Reference" "TP1"
+		(property "Reference" "G1"
 			(at 157.48 128.7779 0)
 			(effects
 				(font
@@ -2861,7 +2861,7 @@
 		(instances
 			(project ""
 				(path "/2461514a-e2cb-40a8-b313-68e2705f4701"
-					(reference "TP1")
+					(reference "G1")
 					(unit 1)
 				)
 			)
