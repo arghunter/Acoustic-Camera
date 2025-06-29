@@ -39,3 +39,10 @@ Today I designed the left right connectors for the setup.The wiring is the same 
 ![image](https://github.com/user-attachments/assets/2e788848-cb68-4e25-bea0-068d3084501e)
 **Time spent: 2.5h**
 
+# June 28th
+Pain, this was awful. 100% my own fault for trying to make i as small as possible though. 
+I routed the left right connector boards. It was not fun. I think i had to undo everything twice and resie the board as well. But its done without any errors However, the copper pour did seem weird, but no errors.
+![image](https://github.com/user-attachments/assets/7e117c6b-e360-40ff-8f43-b4a3e0e89481)
+
+**Time Spent: 3h**
+
