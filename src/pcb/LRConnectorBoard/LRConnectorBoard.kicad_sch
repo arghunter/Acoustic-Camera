@@ -4336,7 +4336,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "F0502-B-10-10G-R:FPC-SMD_F0502-B-10-10G-R"
 			(at 232.41 129.54 0)
 			(effects
 				(font
@@ -5043,7 +5043,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "F0502-B-10-10G-R:FPC-SMD_F0502-B-10-10G-R"
 			(at 57.15 127 0)
 			(effects
 				(font
@@ -5811,7 +5811,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "F0502-B-10-10G-R:FPC-SMD_F0502-B-10-10G-R"
 			(at 36.83 40.64 0)
 			(effects
 				(font
@@ -6057,7 +6057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "F0502-B-10-10G-R:FPC-SMD_F0502-B-10-10G-R"
 			(at 228.6 43.18 0)
 			(effects
 				(font
