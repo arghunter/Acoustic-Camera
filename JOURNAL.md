@@ -33,4 +33,9 @@ Tomorrow, I suppose that was a joke. Anyway I spent 3.5 hours today assigning fo
 Today I finalized the design of the microphone board by adding test points and finalizing dimensions. To be honest, most of the work was procedural so not much to add here. However, referencing May 31st, it turns out that I DO need to flip the FPC connectors.
 ![image](https://github.com/user-attachments/assets/692bc256-3d1e-4eac-8715-50b82370b3fb)
 
+**Time spent: 1h**
+# June 22nd
+Today I designed the left right connectors for the setup.The wiring is the same as the notebook sketches above. Its pretty simple. It uses LVDS and buffers to maintain signal coherance over long distances.
+![image](https://github.com/user-attachments/assets/2e788848-cb68-4e25-bea0-068d3084501e)
+**Time spent: 2.5h**
 
